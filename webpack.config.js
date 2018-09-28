@@ -32,16 +32,10 @@ const common = merge([
       modules: ['node_modules'],
       alias: {
         app: path.resolve(__dirname, 'app'),
-        actions: path.resolve(__dirname, 'app', 'actions'),
         api: path.resolve(__dirname, 'app', 'api'),
         components: path.resolve(__dirname, 'app', 'components'),
         configs: path.resolve(__dirname, 'app', 'configs'),
         constants: path.resolve(__dirname, 'app', 'constants'),
-        middlewares: path.resolve(__dirname, 'app', 'middlewares'),
-        pages: path.resolve(__dirname, 'app', 'pages'),
-        reducers: path.resolve(__dirname, 'app', 'reducers'),
-        routes: path.resolve(__dirname, 'app', 'routes'),
-        store: path.resolve(__dirname, 'app', 'store'),
         src: path.resolve(__dirname, 'src')
       }
     },
