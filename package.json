@@ -1,0 +1,24 @@
+{
+  "name": "threejs-app",
+  "version": "1.0.0",
+  "description": "threejs example app",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.97.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popugang/threejs-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popugang/threejs-app/issues"
+  },
+  "homepage": "https://github.com/popugang/threejs-app#readme"
+}
